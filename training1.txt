@@ -1,0 +1,3 @@
+Hi!  I'm doing a training class on git.
+
+It's pretty swell!
